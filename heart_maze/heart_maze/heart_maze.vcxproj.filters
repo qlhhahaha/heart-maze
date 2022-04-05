@@ -15,31 +15,31 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\maze.cpp">
+    <ClCompile Include="..\..\..\maze.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\stdafx.cpp">
+    <ClCompile Include="..\..\..\stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\maze.h">
-      <Filter>源文件</Filter>
+    <ClInclude Include="..\..\..\maze.h">
+      <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\public.h">
-      <Filter>源文件</Filter>
+    <ClInclude Include="..\..\..\public.h">
+      <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\queue.h">
-      <Filter>源文件</Filter>
+    <ClInclude Include="..\..\..\queue.h">
+      <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\stack.h">
-      <Filter>源文件</Filter>
+    <ClInclude Include="..\..\..\stack.h">
+      <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\stdafx.h">
-      <Filter>源文件</Filter>
+    <ClInclude Include="..\..\..\stdafx.h">
+      <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\targetver.h">
-      <Filter>源文件</Filter>
+    <ClInclude Include="..\..\..\targetver.h">
+      <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
