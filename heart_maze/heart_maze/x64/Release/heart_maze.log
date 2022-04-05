@@ -1,0 +1,6 @@
+﻿  maze.cpp
+  stdafx.cpp
+maze.o : error LNK2005: main 已经在 maze.obj 中定义
+maze.o : error LNK2001: 无法解析的外部符号 __main
+maze.o : error LNK2001: 无法解析的外部符号 ___chkstk_ms
+C:\Users\HUINAIZUI\Desktop\coding\C++日常\heart_maze\heart_maze\x64\Release\heart_maze.exe : fatal error LNK1120: 2 个无法解析的外部命令
